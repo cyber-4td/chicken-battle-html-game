@@ -1,0 +1,90 @@
+
+skill009_3.png
+size: 339,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body3
+  rotate: true
+  xy: 2, 217
+  size: 322, 335
+  orig: 324, 337
+  offset: 1, 1
+  index: -1
+ChiBang2
+  rotate: true
+  xy: 2, 12
+  size: 85, 101
+  orig: 87, 103
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: true
+  xy: 261, 127
+  size: 24, 56
+  orig: 26, 58
+  offset: 1, 1
+  index: -1
+KouQiang
+  rotate: false
+  xy: 223, 55
+  size: 78, 66
+  orig: 80, 68
+  offset: 1, 1
+  index: -1
+Leg4
+  rotate: true
+  xy: 2, 99
+  size: 116, 98
+  orig: 118, 100
+  offset: 1, 1
+  index: -1
+Leg5
+  rotate: true
+  xy: 102, 99
+  size: 116, 98
+  orig: 118, 100
+  offset: 1, 1
+  index: -1
+MeiMao
+  rotate: false
+  xy: 223, 10
+  size: 58, 43
+  orig: 60, 45
+  offset: 1, 1
+  index: -1
+Nu
+  rotate: false
+  xy: 283, 7
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Zhui
+  rotate: true
+  xy: 105, 2
+  size: 95, 57
+  orig: 97, 59
+  offset: 1, 1
+  index: -1
+Zui2
+  rotate: false
+  xy: 164, 5
+  size: 57, 92
+  orig: 59, 94
+  offset: 1, 1
+  index: -1
+Zui3
+  rotate: true
+  xy: 202, 123
+  size: 92, 57
+  orig: 94, 59
+  offset: 1, 1
+  index: -1
+circle
+  rotate: false
+  xy: 261, 153
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1

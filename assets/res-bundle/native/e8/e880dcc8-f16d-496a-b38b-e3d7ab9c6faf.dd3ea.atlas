@@ -1,0 +1,27 @@
+
+skill004_ice.png
+size: 357,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bai
+  rotate: false
+  xy: 227, 97
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 2
+  size: 223, 223
+  orig: 256, 256
+  offset: 17, 16
+  index: -1
+Ice
+  rotate: false
+  xy: 227, 51
+  size: 100, 44
+  orig: 100, 51
+  offset: 0, 0
+  index: -1

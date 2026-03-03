@@ -1,0 +1,20 @@
+
+skill012_1.png
+size: 140,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZiDan
+  rotate: false
+  xy: 2, 4
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+ZiDanFire
+  rotate: false
+  xy: 74, 2
+  size: 64, 46
+  orig: 64, 64
+  offset: 0, 9
+  index: -1

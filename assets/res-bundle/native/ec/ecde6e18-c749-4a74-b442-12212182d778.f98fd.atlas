@@ -1,0 +1,62 @@
+
+skill013_2.png
+size: 418,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigFire1
+  rotate: false
+  xy: 260, 8
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1
+BigFire2
+  rotate: false
+  xy: 260, 110
+  size: 120, 49
+  orig: 121, 49
+  offset: 0, 0
+  index: -1
+BigFire3
+  rotate: true
+  xy: 260, 161
+  size: 43, 148
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+BigFire4
+  rotate: false
+  xy: 382, 44
+  size: 34, 115
+  orig: 34, 116
+  offset: 0, 0
+  index: -1
+BigFire5
+  rotate: false
+  xy: 343, 83
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+DimianFire
+  rotate: true
+  xy: 2, 2
+  size: 202, 256
+  orig: 256, 256
+  offset: 26, 0
+  index: -1
+Fire1
+  rotate: true
+  xy: 260, 51
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+Fire2
+  rotate: true
+  xy: 361, 4
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1

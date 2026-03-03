@@ -1,0 +1,20 @@
+
+skill009_1.png
+size: 86,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: false
+  xy: 2, 2
+  size: 72, 68
+  orig: 74, 71
+  offset: 1, 2
+  index: -1
+Leg1
+  rotate: false
+  xy: 76, 52
+  size: 8, 18
+  orig: 10, 20
+  offset: 1, 1
+  index: -1

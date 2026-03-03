@@ -1,0 +1,76 @@
+
+monster002.png
+size: 361,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 196, 5
+  size: 59, 85
+  orig: 63, 85
+  offset: 4, 0
+  index: -1
+DunPai
+  rotate: true
+  xy: 2, 13
+  size: 77, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 302, 26
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+Eye_Hit
+  rotate: true
+  xy: 257, 17
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: true
+  xy: 302, 3
+  size: 21, 37
+  orig: 22, 37
+  offset: 1, 0
+  index: -1
+Hand_F
+  rotate: false
+  xy: 338, 54
+  size: 21, 36
+  orig: 22, 41
+  offset: 0, 3
+  index: -1
+Head
+  rotate: false
+  xy: 116, 5
+  size: 78, 85
+  orig: 79, 85
+  offset: 1, 0
+  index: -1
+Leg_B
+  rotate: true
+  xy: 257, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Leg_F
+  rotate: true
+  xy: 257, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Mouse_Hit
+  rotate: false
+  xy: 341, 25
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1

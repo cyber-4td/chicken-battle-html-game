@@ -1,0 +1,20 @@
+
+skill010_1.png
+size: 346,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 238, 2
+  size: 106, 106
+  orig: 128, 128
+  offset: 11, 11
+  index: -1
+ShanDian1
+  rotate: true
+  xy: 2, 52
+  size: 56, 234
+  orig: 64, 256
+  offset: 4, 22
+  index: -1

@@ -1,0 +1,83 @@
+
+skill011_2.png
+size: 464,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 162, 2
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+Eye_B
+  rotate: false
+  xy: 424, 52
+  size: 36, 45
+  orig: 38, 47
+  offset: 1, 1
+  index: -1
+Eye_F
+  rotate: false
+  xy: 424, 52
+  size: 36, 45
+  orig: 38, 47
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 355, 72
+  size: 67, 82
+  orig: 78, 86
+  offset: 2, 2
+  index: -1
+Head
+  rotate: false
+  xy: 162, 34
+  size: 120, 120
+  orig: 122, 122
+  offset: 1, 1
+  index: -1
+JiQiang
+  rotate: false
+  xy: 284, 12
+  size: 69, 41
+  orig: 71, 43
+  offset: 1, 1
+  index: -1
+MeiMao
+  rotate: false
+  xy: 355, 12
+  size: 68, 18
+  orig: 70, 20
+  offset: 1, 1
+  index: -1
+TouKui
+  rotate: false
+  xy: 2, 5
+  size: 158, 149
+  orig: 160, 152
+  offset: 1, 2
+  index: -1
+YeZi_L
+  rotate: false
+  xy: 355, 32
+  size: 60, 38
+  orig: 62, 40
+  offset: 1, 1
+  index: -1
+YeZi_R
+  rotate: true
+  xy: 424, 99
+  size: 55, 38
+  orig: 57, 41
+  offset: 1, 2
+  index: -1
+Zui
+  rotate: false
+  xy: 284, 55
+  size: 69, 99
+  orig: 71, 101
+  offset: 1, 1
+  index: -1

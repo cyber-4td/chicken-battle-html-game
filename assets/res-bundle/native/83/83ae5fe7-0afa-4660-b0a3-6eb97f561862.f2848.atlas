@@ -1,0 +1,41 @@
+
+skill006_2.png
+size: 594,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dian_01
+  rotate: true
+  xy: 484, 20
+  size: 223, 54
+  orig: 256, 64
+  offset: 7, 0
+  index: -1
+Dian_02
+  rotate: true
+  xy: 538, 250
+  size: 232, 54
+  orig: 256, 64
+  offset: 10, 5
+  index: -1
+Dian_03
+  rotate: true
+  xy: 484, 245
+  size: 237, 52
+  orig: 256, 64
+  offset: 13, 5
+  index: -1
+Dian_04
+  rotate: true
+  xy: 540, 45
+  size: 203, 50
+  orig: 256, 64
+  offset: 37, 4
+  index: -1
+Quan
+  rotate: false
+  xy: 2, 2
+  size: 480, 480
+  orig: 512, 512
+  offset: 16, 16
+  index: -1

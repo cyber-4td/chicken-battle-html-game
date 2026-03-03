@@ -1,0 +1,41 @@
+
+skill005_hit.png
+size: 334,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fog_1
+  rotate: false
+  xy: 112, 17
+  size: 93, 92
+  orig: 128, 128
+  offset: 20, 19
+  index: -1
+Fog_2
+  rotate: false
+  xy: 246, 80
+  size: 86, 77
+  orig: 128, 128
+  offset: 22, 28
+  index: -1
+Fog_3
+  rotate: false
+  xy: 207, 2
+  size: 78, 76
+  orig: 128, 128
+  offset: 24, 27
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 2
+  size: 108, 107
+  orig: 128, 128
+  offset: 10, 11
+  index: -1
+Path
+  rotate: false
+  xy: 2, 111
+  size: 242, 46
+  orig: 256, 64
+  offset: 0, 9
+  index: -1

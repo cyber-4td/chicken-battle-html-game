@@ -1,0 +1,13 @@
+
+fx_speed.png
+size: 444,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line
+  rotate: false
+  xy: 2, 2
+  size: 440, 208
+  orig: 512, 256
+  offset: 36, 24
+  index: -1

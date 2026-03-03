@@ -1,0 +1,48 @@
+
+skill009_2.png
+size: 151,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body2
+  rotate: false
+  xy: 2, 4
+  size: 93, 99
+  orig: 95, 101
+  offset: 1, 1
+  index: -1
+ChiBang
+  rotate: false
+  xy: 97, 2
+  size: 26, 31
+  orig: 28, 33
+  offset: 1, 1
+  index: -1
+Eye1
+  rotate: true
+  xy: 129, 87
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+Leg2
+  rotate: true
+  xy: 97, 70
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+Leg3
+  rotate: false
+  xy: 97, 35
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+Zui
+  rotate: false
+  xy: 125, 5
+  size: 24, 28
+  orig: 26, 30
+  offset: 1, 1
+  index: -1

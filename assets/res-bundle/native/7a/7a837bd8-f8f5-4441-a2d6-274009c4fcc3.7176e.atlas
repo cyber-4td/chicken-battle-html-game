@@ -1,0 +1,125 @@
+
+monster004.png
+size: 356,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 269, 93
+  size: 63, 59
+  orig: 66, 63
+  offset: 2, 3
+  index: -1
+Eye_Hit
+  rotate: false
+  xy: 266, 204
+  size: 44, 69
+  orig: 46, 73
+  offset: 1, 1
+  index: -1
+Hand_B
+  rotate: true
+  xy: 104, 91
+  size: 38, 49
+  orig: 40, 51
+  offset: 1, 1
+  index: -1
+Hand_F
+  rotate: false
+  xy: 312, 225
+  size: 36, 48
+  orig: 38, 50
+  offset: 1, 1
+  index: -1
+Head
+  rotate: true
+  xy: 54, 131
+  size: 142, 106
+  orig: 144, 108
+  offset: 1, 1
+  index: -1
+Horse_Body
+  rotate: false
+  xy: 143, 12
+  size: 112, 77
+  orig: 115, 80
+  offset: 2, 1
+  index: -1
+Horse_Eye
+  rotate: true
+  xy: 322, 20
+  size: 27, 26
+  orig: 29, 28
+  offset: 1, 1
+  index: -1
+Horse_Eye_Hit
+  rotate: true
+  xy: 2, 2
+  size: 84, 139
+  orig: 86, 141
+  offset: 1, 1
+  index: -1
+Horse_Head
+  rotate: true
+  xy: 162, 158
+  size: 115, 102
+  orig: 118, 105
+  offset: 2, 1
+  index: -1
+Horse_Leg_B
+  rotate: true
+  xy: 54, 90
+  size: 39, 48
+  orig: 42, 50
+  offset: 2, 1
+  index: -1
+Horse_Leg_F
+  rotate: true
+  xy: 155, 91
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+Horse_WeiBa
+  rotate: true
+  xy: 205, 92
+  size: 64, 62
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Leg_B
+  rotate: false
+  xy: 266, 158
+  size: 35, 44
+  orig: 38, 47
+  offset: 1, 1
+  index: -1
+Leg_F
+  rotate: false
+  xy: 303, 158
+  size: 35, 44
+  orig: 38, 46
+  offset: 1, 1
+  index: -1
+Mouse_Hit
+  rotate: false
+  xy: 322, 49
+  size: 32, 42
+  orig: 38, 44
+  offset: 2, 1
+  index: -1
+PiFeng
+  rotate: true
+  xy: 257, 16
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 88
+  size: 50, 185
+  orig: 53, 190
+  offset: 2, 1
+  index: -1

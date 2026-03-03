@@ -1,0 +1,27 @@
+
+skill008_2.png
+size: 205,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuangZhu
+  rotate: false
+  xy: 75, 44
+  size: 128, 112
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+Line
+  rotate: true
+  xy: 2, 3
+  size: 153, 71
+  orig: 179, 89
+  offset: 13, 9
+  index: -1
+Yumao2
+  rotate: true
+  xy: 75, 2
+  size: 40, 85
+  orig: 44, 87
+  offset: 3, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+fail_caidai.png
+size: 49,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_paper_01
+  rotate: false
+  xy: 2, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1

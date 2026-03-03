@@ -1,0 +1,97 @@
+
+skill003_1.png
+size: 284,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boom
+  rotate: true
+  xy: 2, 150
+  size: 376, 85
+  orig: 379, 100
+  offset: 3, 11
+  index: -1
+Eye3
+  rotate: false
+  xy: 244, 216
+  size: 33, 67
+  orig: 35, 69
+  offset: 1, 1
+  index: -1
+Eye4
+  rotate: true
+  xy: 238, 285
+  size: 66, 44
+  orig: 68, 46
+  offset: 1, 1
+  index: -1
+Fog_1
+  rotate: true
+  xy: 213, 82
+  size: 72, 69
+  orig: 85, 85
+  offset: 7, 8
+  index: -1
+Fog_2
+  rotate: false
+  xy: 132, 88
+  size: 79, 78
+  orig: 85, 85
+  offset: 4, 4
+  index: -1
+Fog_3
+  rotate: false
+  xy: 132, 13
+  size: 79, 73
+  orig: 85, 85
+  offset: 2, 5
+  index: -1
+Line
+  rotate: false
+  xy: 89, 168
+  size: 153, 71
+  orig: 179, 89
+  offset: 13, 9
+  index: -1
+MeiMao
+  rotate: true
+  xy: 244, 156
+  size: 58, 30
+  orig: 60, 32
+  offset: 1, 1
+  index: -1
+Plane
+  rotate: false
+  xy: 2, 20
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TuJiu_Body
+  rotate: false
+  xy: 89, 241
+  size: 147, 110
+  orig: 175, 125
+  offset: 8, 8
+  index: -1
+Zui1
+  rotate: true
+  xy: 213, 2
+  size: 33, 46
+  orig: 35, 48
+  offset: 1, 1
+  index: -1
+Zui2
+  rotate: false
+  xy: 213, 37
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+ring
+  rotate: false
+  xy: 89, 353
+  size: 173, 173
+  orig: 179, 179
+  offset: 3, 3
+  index: -1

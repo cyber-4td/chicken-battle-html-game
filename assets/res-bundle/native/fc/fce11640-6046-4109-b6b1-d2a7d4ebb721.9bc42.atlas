@@ -1,0 +1,202 @@
+
+skill004_1.png
+size: 916,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 753, 357
+  size: 103, 75
+  orig: 105, 77
+  offset: 1, 1
+  index: -1
+Eye1
+  rotate: false
+  xy: 765, 794
+  size: 37, 44
+  orig: 39, 46
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: false
+  xy: 858, 354
+  size: 39, 78
+  orig: 41, 80
+  offset: 1, 1
+  index: -1
+FaTiao
+  rotate: false
+  xy: 753, 292
+  size: 58, 63
+  orig: 60, 65
+  offset: 1, 1
+  index: -1
+Fog_01
+  rotate: true
+  xy: 729, 104
+  size: 186, 183
+  orig: 256, 256
+  offset: 40, 39
+  index: -1
+Fog_02
+  rotate: false
+  xy: 729, 12
+  size: 90, 90
+  orig: 256, 256
+  offset: 81, 85
+  index: -1
+Fog_03
+  rotate: true
+  xy: 761, 590
+  size: 172, 153
+  orig: 256, 256
+  offset: 44, 56
+  index: -1
+Fog_04
+  rotate: true
+  xy: 761, 434
+  size: 154, 151
+  orig: 256, 256
+  offset: 49, 55
+  index: -1
+Mouse
+  rotate: true
+  xy: 813, 310
+  size: 45, 33
+  orig: 47, 35
+  offset: 1, 1
+  index: -1
+Quan_01
+  rotate: false
+  xy: 2, 763
+  size: 252, 252
+  orig: 341, 341
+  offset: 45, 44
+  index: -1
+Quan_02
+  rotate: false
+  xy: 2, 509
+  size: 252, 252
+  orig: 342, 341
+  offset: 45, 44
+  index: -1
+Quan_03
+  rotate: false
+  xy: 256, 763
+  size: 252, 252
+  orig: 341, 341
+  offset: 44, 44
+  index: -1
+Quan_04
+  rotate: false
+  xy: 2, 255
+  size: 252, 252
+  orig: 341, 341
+  offset: 44, 44
+  index: -1
+Quan_05
+  rotate: false
+  xy: 256, 509
+  size: 252, 252
+  orig: 342, 341
+  offset: 45, 44
+  index: -1
+Quan_06
+  rotate: false
+  xy: 2, 2
+  size: 252, 251
+  orig: 341, 341
+  offset: 44, 45
+  index: -1
+Quan_07
+  rotate: false
+  xy: 510, 764
+  size: 253, 251
+  orig: 341, 342
+  offset: 44, 46
+  index: -1
+Quan_08
+  rotate: false
+  xy: 256, 256
+  size: 251, 251
+  orig: 342, 342
+  offset: 45, 46
+  index: -1
+Quan_09
+  rotate: false
+  xy: 510, 511
+  size: 249, 251
+  orig: 341, 342
+  offset: 47, 46
+  index: -1
+Quan_10
+  rotate: false
+  xy: 256, 3
+  size: 248, 251
+  orig: 341, 342
+  offset: 48, 46
+  index: -1
+Quan_11
+  rotate: true
+  xy: 506, 12
+  size: 242, 221
+  orig: 342, 342
+  offset: 54, 76
+  index: -1
+Quan_12
+  rotate: false
+  xy: 510, 292
+  size: 241, 217
+  orig: 341, 342
+  offset: 54, 79
+  index: -1
+Quan_13
+  rotate: true
+  xy: 765, 840
+  size: 175, 48
+  orig: 341, 341
+  offset: 78, 247
+  index: -1
+Quan_14
+  rotate: true
+  xy: 815, 841
+  size: 174, 48
+  orig: 342, 341
+  offset: 79, 247
+  index: -1
+Quan_15
+  rotate: true
+  xy: 865, 884
+  size: 131, 26
+  orig: 341, 341
+  offset: 99, 269
+  index: -1
+Quan_16
+  rotate: false
+  xy: 509, 265
+  size: 129, 25
+  orig: 341, 341
+  offset: 100, 269
+  index: -1
+Quan_17
+  rotate: true
+  xy: 893, 957
+  size: 58, 17
+  orig: 342, 341
+  offset: 112, 276
+  index: -1
+Quan_18
+  rotate: false
+  xy: 813, 292
+  size: 54, 16
+  orig: 341, 341
+  offset: 113, 276
+  index: -1
+circle
+  rotate: false
+  xy: 821, 40
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1

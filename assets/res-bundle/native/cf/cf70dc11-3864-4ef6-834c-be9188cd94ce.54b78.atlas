@@ -1,0 +1,27 @@
+
+skill008_hit.png
+size: 176,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaoDian1
+  rotate: true
+  xy: 120, 3
+  size: 55, 54
+  orig: 64, 64
+  offset: 3, 6
+  index: -1
+BaoDian2
+  rotate: true
+  xy: 60, 4
+  size: 54, 58
+  orig: 64, 64
+  offset: 6, 3
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 2
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1

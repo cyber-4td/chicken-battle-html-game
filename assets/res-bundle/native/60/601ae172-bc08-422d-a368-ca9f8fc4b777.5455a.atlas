@@ -1,0 +1,97 @@
+
+monster007.png
+size: 184,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 86, 63
+  size: 60, 84
+  orig: 62, 86
+  offset: 1, 1
+  index: -1
+Cap
+  rotate: false
+  xy: 2, 149
+  size: 98, 114
+  orig: 100, 116
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 3
+  size: 27, 26
+  orig: 29, 28
+  offset: 1, 1
+  index: -1
+Eye_Hit
+  rotate: true
+  xy: 2, 31
+  size: 42, 71
+  orig: 44, 73
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: true
+  xy: 75, 11
+  size: 50, 59
+  orig: 52, 61
+  offset: 1, 1
+  index: -1
+Hand_B
+  rotate: false
+  xy: 136, 17
+  size: 34, 44
+  orig: 36, 46
+  offset: 1, 1
+  index: -1
+Hand_F
+  rotate: false
+  xy: 148, 219
+  size: 34, 44
+  orig: 36, 46
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 75
+  size: 82, 72
+  orig: 84, 74
+  offset: 1, 1
+  index: -1
+Leg_B
+  rotate: false
+  xy: 148, 175
+  size: 33, 42
+  orig: 35, 44
+  offset: 1, 1
+  index: -1
+Leg_F
+  rotate: false
+  xy: 148, 131
+  size: 33, 42
+  orig: 35, 44
+  offset: 1, 1
+  index: -1
+Mouse
+  rotate: false
+  xy: 136, 2
+  size: 19, 13
+  orig: 21, 15
+  offset: 1, 1
+  index: -1
+Mouse_Hit
+  rotate: false
+  xy: 148, 86
+  size: 32, 43
+  orig: 34, 45
+  offset: 1, 1
+  index: -1
+Weapon
+  rotate: false
+  xy: 102, 167
+  size: 44, 96
+  orig: 46, 98
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+victory_caidai.png
+size: 107,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_paper_01
+  rotate: false
+  xy: 55, 34
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+fx_paper_02
+  rotate: false
+  xy: 2, 49
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+fx_paper_03
+  rotate: false
+  xy: 2, 10
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+fx_paper_04
+  rotate: true
+  xy: 45, 2
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+fx_paper_05
+  rotate: false
+  xy: 76, 80
+  size: 29, 72
+  orig: 29, 72
+  offset: 0, 0
+  index: -1
+fx_paper_06
+  rotate: false
+  xy: 2, 90
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1

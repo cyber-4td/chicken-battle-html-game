@@ -1,0 +1,41 @@
+
+pet001.png
+size: 93,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+ChiBang
+  rotate: false
+  xy: 54, 27
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 76, 8
+  size: 17, 15
+  orig: 19, 17
+  offset: 1, 1
+  index: -1
+Leg
+  rotate: false
+  xy: 82, 34
+  size: 7, 18
+  orig: 9, 20
+  offset: 1, 1
+  index: -1
+Zui
+  rotate: true
+  xy: 54, 4
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
